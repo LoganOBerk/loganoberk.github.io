@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Logan Berk",
+  "jobTitle": "Backend & Systems Developer",
+  "url": "https://loganoberk.github.io/",
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "University of Michigan-Dearborn"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/in/logan-berk",
+    "https://github.com/LoganOBerk",
+    "https://www.instagram.com/loganoberk"
+  ]
+}
